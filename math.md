@@ -2,9 +2,8 @@
        
 </header>
 
-<font size="+12"><center>
-    数学
-</center>
+# 数学
+## 熟悉而
 
 完成事情1
 完成事情2
