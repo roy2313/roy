@@ -2,7 +2,7 @@
        
 </header>
 
-[目录](./README.md)
+# [目录](./README.md)
 
 # 数学
 
