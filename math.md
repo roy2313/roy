@@ -1,7 +1,7 @@
 <header>
        
 </header>
-# [目录](./readme.md)
+# [目录](./README.md)
 
 # 数学
 
