@@ -1,2 +1,10 @@
 # 学习资料
   * ## [数学](./math.md)
+  * ## [语文](./chinese.md)
+  * ## [英语](./english.md)
+  * ## [物理](./physics.md)
+  * ## [化学](./chemistry.md)
+  * ## [生物](./biology.md)
+  * ## [道德](./ethics.md)
+  * ## [历史](./history.md)
+  * ## [地理](./geography.md)
