@@ -8,3 +8,13 @@
   * ## [道德](./ethics.md)
   * ## [历史](./history.md)
   * ## [地理](./geography.md)
+
+
+# Design Outline:
+## folders:
+### 1. Math
+#### 1.1. Books
+#### 1.2. Chapters
+#### 1.3. Steps
+#### 1.4. Pasts
+#### 1.5. Mocks
