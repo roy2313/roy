@@ -1,5 +1,5 @@
 # 学习资料
-  * ## [数学](./math.md)
+  * ## [数学](./math/math.md)
   * ## [语文](./chinese.md)
   * ## [英语](./english.md)
   * ## [物理](./physics.md)
