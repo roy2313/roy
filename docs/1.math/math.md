@@ -2,7 +2,7 @@
        
 </header>
 
-# [学科目录](../README.md)
+# [学科目录](../../README.md)
 
 # 数学
 
