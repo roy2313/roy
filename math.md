@@ -37,4 +37,4 @@
 ## 29. 概率
 
 
-![avatar](./math.jpg)
+![abc](./math.jpg)
