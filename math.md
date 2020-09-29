@@ -37,4 +37,4 @@
 ## 29. 概率
 
 
-![avatar](/math.jepg)
+![avatar](math.jepg)
