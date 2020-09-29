@@ -11,7 +11,7 @@
 ![abc](./chinese01.jpg)
 ![abc](./chinese02.jpg)
 ![abc](./chinese03.jpg)
-![abc](./chinese04jpg)
+![abc](./chinese04.jpg)
 ![abc](./chinese05.jpg)
 ![abc](./chinese06.jpg)
 ![abc](./chinese07.jpg)
