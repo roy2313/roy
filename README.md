@@ -1,7 +1,7 @@
 # 学习资料
 
-
-<font size="5" face="Verdana">
+<p>
+<font size="20">
 
 |  表头   | 表头  |
 |  ----  | ----  |
@@ -11,10 +11,10 @@
 
 This is a paragraph.
 </font>
-
+</p>
 
 <p>
-<font size="20" face="Verdana">
+<font size="20">
 This is a paragraph.
 </font>
 </p>
