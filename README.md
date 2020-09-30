@@ -1,6 +1,6 @@
 # 进度
 
-<h1 style="font-size:3vw">
+<h1 style="font-size:1em">
 
 |  表头   | 表头  |
 |  ----  | ----  |
