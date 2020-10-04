@@ -8,10 +8,15 @@
 ### 1.1 Assumptions
 
 * This app is designed to run on Android devices
+* All data for user is saved locally on the cellphone
+* All job related information is stored locally
 
 ### 1.2 Constraints
 
-*Describe any constraints on the system that have a significant impact on the design of the system.*
+* User must have Android smart phone
+* The App should only rely on local data
+* In case a network service is not available, the App should work normally
+
 
 ### 1.3 System Environment
 
