@@ -1,16 +1,13 @@
 # Design Document
 
-*This is the template for your design document. The parts in italics are concise explanations of what should go in the corresponding sections and should not appear in the final document.*
 
-**Author**: \<person or team name\>
+**Author**: 6300Fall20Team002
 
 ## 1 Design Considerations
 
-*The subsections below describe the issues that need to be addressed or resolved prior to or while completing the design, as well as issues that may influence the design process.*
-
 ### 1.1 Assumptions
 
-*Describe any assumption, background, or dependencies of the software, its use, the operational environment, or significant project issues.*
+* This app is designed to run on Android devices
 
 ### 1.2 Constraints
 
