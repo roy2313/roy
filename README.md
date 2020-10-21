@@ -1,6 +1,6 @@
 * # 科研
 * # 学习
-   * ## 哲学&emsp;zxasdf&emsp;asdfasdf    &emsp; asdfasdf      abb
+   * ## 哲学     理学     工科     管理     经济     法律
    * ## 理学
    * ## 工科
    * ## 管理
