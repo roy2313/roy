@@ -5,6 +5,6 @@
 * # 娱乐
    * ## [电影](https://roy2313.github.io/movie/) - 电视剧 - 游戏 - 音乐
 * # 兴趣
-   * ## 摄影
+   * ## [摄影](https://roy2313.github.io/rvoct2020/)
 * # 运动
    * ## 网球 - 篮球
