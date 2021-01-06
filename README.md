@@ -1,4 +1,4 @@
-# [思维导图](https://www.mindmeister.com/1740672222)
+# [思维导图](mindmap.jpg)
 * # 科研
    * ## 基础课 : 电磁学 - 量子力学 - 固体物理 -    
    * ## 文献 : Topic - Group
