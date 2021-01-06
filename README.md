@@ -9,10 +9,12 @@
    * ## 经济 : 理论经济学 - [金融](https://roy2313.github.io/finance/) - 会计 - 投资学 
    * ## 法律 : 法考 - 知识产权
 * # 生活
-   * ## [美食](https://roy2313.github.io/food/) - [健康](https://roy2313.github.io/health/) - 衣服 - 清洁 - 新闻 - 居住 - 软件 - 工具
+   * ## [美食](https://roy2313.github.io/food/) - [健康](https://roy2313.github.io/health/) - 衣服 - 清洁 - 新闻 - 居住 - 软件 - 硬件
 * # 娱乐
    * ## [电影](https://roy2313.github.io/movie/) - 电视剧 - [音乐](https://roy2313.github.io/music/) - 综艺 - 阅读 - 动漫 - 游戏 - 有声 - 纪录
 * # 兴趣
-   * ## [摄影](https://roy2313.github.io/rvoct2020/)
+   * ## [摄影](https://roy2313.github.io/rvoct2020/) - 旅游 - 乐队 - 魔方 - 记忆
 * # 运动
-   * ## 网球 - 篮球
+   * ## 篮球 - 网球 - 游泳 - 跑步 - 拳击 - 射击 - 滑雪
+* # 中学
+   * ## 篮球 - 网球 - 游泳 - 跑步 - 拳击 - 射击 - 滑雪
