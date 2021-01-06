@@ -4,7 +4,7 @@
    * ## 工科 : ME - CS - EE
    * ## 管理 : MBA - PMP
    * ## 经济 : 理论经济学 - [金融](https://roy2313.github.io/finance/) - 会计 - 投资学 
-   * ## 法律
+   * ## 法律 : 法考 - 知识产权
 * # 生活
    * ## [美食](https://roy2313.github.io/food/) - [健康](https://roy2313.github.io/health/)
 * # 娱乐
