@@ -1,6 +1,4 @@
 # [思维导图](mindmap.jpeg)
-![1](mindmap.jpeg)
-
 * # 科研
    * ## 基础课 : 电磁学 - 量子力学 - 固体物理 -    
    * ## 文献 : Topic - Group
