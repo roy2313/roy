@@ -1,5 +1,5 @@
-# 思维导图
-![1](mindmap.jpg)
+# [思维导图](mindmap.jpeg)
+![1](mindmap.jpeg)
 
 * # 科研
    * ## 基础课 : 电磁学 - 量子力学 - 固体物理 -    
