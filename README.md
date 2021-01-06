@@ -9,7 +9,7 @@
    * ## 经济 : 理论经济学 - [金融](https://roy2313.github.io/finance/) - 会计 - 投资学 
    * ## 法律 : 法考 - 知识产权
 * # 生活
-   * ## [美食](https://roy2313.github.io/food/) - [健康](https://roy2313.github.io/health/)
+   * ## [美食](https://roy2313.github.io/food/) - [健康](https://roy2313.github.io/health/) - 衣服 - 清洁 - 新闻 - 居住 - 软件 - 工具
 * # 娱乐
    * ## [电影](https://roy2313.github.io/movie/) - 电视剧 - 游戏 - [音乐](https://roy2313.github.io/music/)
 * # 兴趣
