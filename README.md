@@ -11,7 +11,7 @@
 * # 生活
    * ## [美食](https://roy2313.github.io/food/) - [健康](https://roy2313.github.io/health/) - 衣服 - 清洁 - 新闻 - 居住 - 软件 - 工具
 * # 娱乐
-   * ## [电影](https://roy2313.github.io/movie/) - 电视剧 - 游戏 - [音乐](https://roy2313.github.io/music/)
+   * ## [电影](https://roy2313.github.io/movie/) - 电视剧 - [音乐](https://roy2313.github.io/music/) - 综艺 - 阅读 - 动漫 - 游戏 - 有声 - 纪录
 * # 兴趣
    * ## [摄影](https://roy2313.github.io/rvoct2020/)
 * # 运动
