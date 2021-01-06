@@ -1,8 +1,8 @@
 * # 知识
    * ## 哲学 : 西方哲学 - [周易](https://roy2313.github.io/bookofchanges/)   
-   * ## 理学 - 
-   * ## 工科 - 
-   * ## 管理 - 
+   * ## 理学 : 数学 - 物理
+   * ## 工科 : ME - CS - EE
+   * ## 管理 : MBA - PMP
    * ## [经济](https://roy2313.github.io/finance/) - 
    * ## 法律
 * # 生活
