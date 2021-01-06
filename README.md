@@ -1,5 +1,5 @@
 * # 知识
-   * ## [哲学](https://roy2313.github.io/bookofchanges/) - 
+   * ## 哲学 : 西方哲学 - [周易](https://roy2313.github.io/bookofchanges/)   
    * ## 理学 - 
    * ## 工科 - 
    * ## 管理 - 
