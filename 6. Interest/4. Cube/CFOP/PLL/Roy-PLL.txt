@@ -1,0 +1,21 @@
+01     -     (R U') (R U) (R U) (R U') (R' U' R2)
+02     -     (R2 U) (R U R' U') (R' U' R' U R')
+03     -     (R2 U2 R U2 R2) U2 (R2 U2 R U2 R2)
+04     -     (U R' U' R U') (R U R U' R' U) (R U) (R2 U' R' U)
+05     -     x' (U L') (U R2') (U' L) (U R2') U2 x
+06     -     x' (R2 D2 R' U' R D2) (R' U R') x
+07     -     (R U R' U') (R' F R2 U' R' U') (R U R' F')
+08     -     F (R U' R' U') (R U R' F') (R U R' U') (R' F R F')
+09     -     (R2 U R' U') y (R U R' U')2 (R U R') y' (R U' R2)
+10     -     U' (R' U R U') R2' b' x (R' U R) y' (R U R' U' R2)
+11     -     z (R' U R') z' (R U2 L' U R') z (U R') z' (R U2 L' U R')
+12     -     (L' U R') z (R2 U R') z' (R L' U R') z (R2 U R') z' (R U)
+13     -     (R U R' F' R U R' U') (R' F R2 U' R' U')
+14     -     z (U' R D') (R2 U R' U') (R2 U) z' (R U')
+15     -     (R U'2 R' U2 R B' R' U') (R U R B) (R2' U)
+16     -     (R' U'2 R U2 R' F R U R' U') (R' F' R2 U')
+17     -     
+18     -     
+19     -     
+20     -     
+21     -     (R' U R' d') (R' F') (R2 U' R' U)(R' F R F)
